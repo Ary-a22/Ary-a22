@@ -1,16 +1,14 @@
 ## Hi there 👋
+I’m a B.Tech student in Electronics and Telecommunication Engineering at Sardar Patel Institute of Technology (Mumbai) with a minor in Management from SPJIMR. I’m passionate about building scalable applications, full-stack development, and applying AI to solve real-world problems.
 
-<!--
-**Ary-a22/Ary-a22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skilled in Java, Python, C++, SQL, JavaScript, React, FastAPI, and PostgreSQL
 
-Here are some ideas to get you started:
+🚀 Built projects like an AI Voice Assistant (MERN + Gemini AI), HealConnect 360 (AI-enabled hospital management system), and Credit Risk Model (Python, Scikit-learn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Experienced as a Trainee Research Analyst at Open Cloudware, producing research on emerging technologies and supporting client projects
+
+🎯 Active leader as Finance Secretary of Students’ Council, managing a ₹50 lakh annual budget for 22+ student committees
+
+🏆 Achievements: IEEE Xplore Author, National Debugging Competition (Runner-up), and winner of national strategy competitions at IIT Madras & SPJIMR
+
+I love exploring new technologies, contributing to impactful projects, and collaborating with communities to learn and grow.
